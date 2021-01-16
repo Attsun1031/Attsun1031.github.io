@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>tech on Attsun blog</title><link>https://attsun1031.github.io/tags/tech/</link><description>Recent content in tech on Attsun blog</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><lastBuildDate>Sat, 16 Jan 2021 12:49:44 +0900</lastBuildDate><atom:link href="https://attsun1031.github.io/tags/tech/index.xml" rel="self" type="application/rss+xml"/><item><title>Pythonスキーマバリデーションライブラリ比較</title><link>https://attsun1031.github.io/posts/python-validation-framework-comparison/</link><pubDate>Sat, 16 Jan 2021 12:49:44 +0900</pubDate><guid>https://attsun1031.github.io/posts/python-validation-framework-comparison/</guid><description>ウェブAPIの作成など、外部からやってくるデータを安全に捌く上で、スキーマ定義とバリデーションは非常に重要です。
+また、特にPythonのような動的型付け言語において、内部でもレイヤをまたぐ場合はきちんと定義されたデータモデルを利用することで、知らない間にデータモデルが変わっていた、というようなケースを防ぐことができます。
+Pythonには標準でスキーマバリデーションライブラリがないため3rdパーティのものを使うことになりますが、様々なライブラリがあるので比較してみました。
+比較対象のライブラリ概要 ※Pythonバージョンは3.9.0を利用します。
+lib  version Github Star (2020/1/5) memo pydantic 1.</description></item></channel></rss>
