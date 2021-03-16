@@ -1,1 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://attsun1031.github.io/</loc><lastmod>2021-02-10T10:40:39+09:00</lastmod></url><url><loc>https://attsun1031.github.io/tags/data/</loc><lastmod>2021-02-10T10:40:39+09:00</lastmod></url><url><loc>https://attsun1031.github.io/posts/dbt-dataform-comparison/</loc><lastmod>2021-02-10T10:40:39+09:00</lastmod></url><url><loc>https://attsun1031.github.io/posts/</loc><lastmod>2021-02-10T10:40:39+09:00</lastmod></url><url><loc>https://attsun1031.github.io/tags/</loc><lastmod>2021-02-10T10:40:39+09:00</lastmod></url><url><loc>https://attsun1031.github.io/tags/tech/</loc><lastmod>2021-02-10T10:40:39+09:00</lastmod></url><url><loc>https://attsun1031.github.io/tags/python/</loc><lastmod>2021-01-16T12:49:44+09:00</lastmod></url><url><loc>https://attsun1031.github.io/posts/python-validation-framework-comparison/</loc><lastmod>2021-01-16T12:49:44+09:00</lastmod></url><url><loc>https://attsun1031.github.io/posts/2020-summary/</loc><lastmod>2020-12-31T18:21:27+09:00</lastmod></url><url><loc>https://attsun1031.github.io/about/</loc><lastmod>2020-12-31T13:55:25+09:00</lastmod></url><url><loc>https://attsun1031.github.io/posts/my-first-post/</loc><lastmod>2020-12-31T11:52:09+09:00</lastmod></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://attsun1031.github.io//404</loc>
+  </url>
+
+  <url>
+    <loc>https://attsun1031.github.io//about</loc>
+  </url>
+
+  <url>
+    <loc>https://attsun1031.github.io//blog</loc>
+  </url>
+
+  <url>
+    <loc>https://attsun1031.github.io/</loc>
+  </url>
+
+  <url>
+    <loc>https://attsun1031.github.io//projects</loc>
+  </url>
+
+  <url>
+    <loc>https://attsun1031.github.io//tags</loc>
+  </url>
+
+  <url>
+    <loc>https://attsun1031.github.io//blog/2020-summary</loc>
+  </url>
+
+  <url>
+    <loc>https://attsun1031.github.io//blog/dbt-dataform-comparison</loc>
+  </url>
+
+  <url>
+    <loc>https://attsun1031.github.io//blog/my-first-post</loc>
+  </url>
+
+  <url>
+    <loc>https://attsun1031.github.io//blog/python-validation-framework-comparison</loc>
+  </url>
+
+  <url>
+    <loc>https://attsun1031.github.io//tags/</loc>
+  </url>
+
+  <url>
+    <loc>https://attsun1031.github.io//tags/python</loc>
+  </url>
+
+  <url>
+    <loc>https://attsun1031.github.io//tags/tech</loc>
+  </url>
+</urlset>
