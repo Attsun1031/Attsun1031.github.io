@@ -37,6 +37,10 @@
   </url>
 
   <url>
+    <loc>https://attsun1031.github.io//blog/gcp-three-things</loc>
+  </url>
+
+  <url>
     <loc>https://attsun1031.github.io//blog/my-first-post</loc>
   </url>
 
@@ -53,19 +57,19 @@
   </url>
 
   <url>
-    <loc>https://attsun1031.github.io//tags/mesh</loc>
-  </url>
-
-  <url>
-    <loc>https://attsun1031.github.io//tags/python</loc>
-  </url>
-
-  <url>
     <loc>https://attsun1031.github.io//tags/dbt</loc>
   </url>
 
   <url>
+    <loc>https://attsun1031.github.io//tags/mesh</loc>
+  </url>
+
+  <url>
     <loc>https://attsun1031.github.io//tags/slide</loc>
+  </url>
+
+  <url>
+    <loc>https://attsun1031.github.io//tags/python</loc>
   </url>
 
   <url>
