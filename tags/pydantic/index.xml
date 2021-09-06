@@ -8,7 +8,7 @@
       <managingEditor> (Tatsuya Atsumi)</managingEditor>
       <webMaster> (Tatsuya Atsumi)</webMaster>
       <lastBuildDate>Mon, 06 Sep 2021 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://attsun1031.github.io//tags/python/index.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://attsun1031.github.io//tags/pydantic/index.xml" rel="self" type="application/rss+xml"/>
       
   <item>
     <guid>https://attsun1031.github.io//blog/pydantic-intro</guid>
@@ -18,16 +18,6 @@
     <pubDate>Mon, 06 Sep 2021 00:00:00 GMT</pubDate>
     <author> (Tatsuya Atsumi)</author>
     <category>tech</category><category>python</category><category>pydantic</category>
-  </item>
-
-  <item>
-    <guid>https://attsun1031.github.io//blog/python-validation-framework-comparison</guid>
-    <title>Pythonスキーマバリデーションライブラリ比較 (pydantic, marshmallow, attrs, cerberus)</title>
-    <link>https://attsun1031.github.io//blog/python-validation-framework-comparison</link>
-    <description>Pythonスキーマバリデーションライブラリについて比較してみました。</description>
-    <pubDate>Sat, 16 Jan 2021 00:00:00 GMT</pubDate>
-    <author> (Tatsuya Atsumi)</author>
-    <category>python</category><category>tech</category>
   </item>
 
     </channel>
