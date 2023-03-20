@@ -37,6 +37,10 @@
   </url>
 
   <url>
+    <loc>https://attsun1031.github.io//blog/data-jobs-in-ubie</loc>
+  </url>
+
+  <url>
     <loc>https://attsun1031.github.io//blog/dbt-dataform-comparison</loc>
   </url>
 
@@ -65,6 +69,10 @@
   </url>
 
   <url>
+    <loc>https://attsun1031.github.io//tags/-engineer</loc>
+  </url>
+
+  <url>
     <loc>https://attsun1031.github.io//tags/mesh</loc>
   </url>
 
@@ -74,6 +82,10 @@
 
   <url>
     <loc>https://attsun1031.github.io//tags/gcp</loc>
+  </url>
+
+  <url>
+    <loc>https://attsun1031.github.io//tags/jobs</loc>
   </url>
 
   <url>
@@ -90,5 +102,9 @@
 
   <url>
     <loc>https://attsun1031.github.io//tags/tech</loc>
+  </url>
+
+  <url>
+    <loc>https://attsun1031.github.io//tags/ubie</loc>
   </url>
 </urlset>
